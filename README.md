@@ -77,4 +77,5 @@ On Unraid the AWS CLI will need to be installed using the terminal
 4. Edit script copy and past code from run.sh
 5. Create API key in mealie /user/profile/api-tokens
 6. Copy and paste Environment variables into script
-7. Run, your s3 bucket should now have the latest backup!
+7. In Docker settings enable Host access to custom networks: 
+8. Run, your s3 bucket should now have the latest backup!
